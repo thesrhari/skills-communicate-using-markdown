@@ -3,3 +3,9 @@
 ### This is a H3 Header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+a = 10
+b = 20
+print(a+b)
+```
