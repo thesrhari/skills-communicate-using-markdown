@@ -9,3 +9,7 @@ a = 10
 b = 20
 print(a+b)
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
